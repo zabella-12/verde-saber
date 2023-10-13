@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581750777953",
+    "project_id": "verdesaber-d5604",
+    "storage_bucket": "verdesaber-d5604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581750777953:android:138be43062f5e44be5a220",
+        "android_client_info": {
+          "package_name": "com.example.verde_saber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlhXArRbkQglLDpNyF2ePXu7a4IpKmHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
