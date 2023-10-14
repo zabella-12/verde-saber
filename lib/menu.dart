@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:verde_saber/chat.dart';
 import 'package:verde_saber/start.dart';
 
 class Menu extends StatelessWidget {
@@ -58,14 +59,14 @@ class Menu extends StatelessWidget {
             Card(
               margin: EdgeInsets.all(10.0),
               child: InkWell(
-                /* onTap: () {
+                 onTap: () {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => TanquesList(),
+                      builder: (context) => ChatApp(),
                     ),
                   );
-                },*/
+                },
                 splashColor: Colors.indigo,
                 child: Center(
                   child: Column(
