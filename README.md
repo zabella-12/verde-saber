@@ -1,6 +1,6 @@
 # MeConecta
 
-Apoio a produtores da Amazônia, para a implatação de práticas ABC+, de forma fácil através de um chat que encaminha as informações com texto, mensagem de voz, e pequenos vídeos, passando informações necessárias para o manejo, telefones de contato, tendo informação centralizada ao produtor rural sobre ONG, Empresas Parceiras, e entidades governamentais parceiras.
+Desenvolvemos um aplicativo, que seu código pode ser suportado a multiplataforma (Ios, Android e Web), para apoio a produtores da Amazônia, para a implatação de práticas ABC+, de forma fácil através de um chat que encaminha as informações com texto, mensagem de voz, e pequenos vídeos, passando informações necessárias para o manejo, telefones de contato, tendo informação centralizada ao produtor rural sobre ONG, Empresas Parceiras, e entidades governamentais parceiras.
 
 ## Tecnologia utilizada
 
@@ -12,4 +12,4 @@ Este projeto foi desenvolvido usando o framework Flutter, Botpress, e já integr
 
 
 ## Para Executar o projeto.
-Com a IDE do Android Studio, ou similar, conectar o celular android já habilitado o modo desenvolvedor, e selecione na IDE o celular apresentado, clicando no play para executar a classe principal <code>main</code>. Espere baixar as dependencias, e build para ser apresentado no telefone. É necessário no celular, aceitar instalar o aplicativo quando build estiver concluído.
+Com a IDE do Android Studio, ou similar, conectar o celular android já habilitado o modo desenvolvedor, e selecione na IDE o celular apresentado, clicando no play para executar a classe principal <code>main</code>. Espere baixar as dependencias, e build para ser apresentado no telefone. É necessário no celular, aceitar instalar o aplicativo quando build estiver concluído. O código inicial gerado, foi construido o pacote apenas para o Android, para teste do MVP.
