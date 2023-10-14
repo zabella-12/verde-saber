@@ -75,13 +75,13 @@ class Menu extends StatelessWidget {
                       Icon(
                         Icons.mark_chat_read,
                         size: 70.0,
-                        color: Colors.black54,
+                        color: Colors.deepOrangeAccent,
                       ),
                       Text("Acesso à Informação",
                           textAlign: TextAlign.center,
                           style: (TextStyle(
                             fontSize: 16,
-                            color: Colors.black54,
+                            color: Colors.deepOrangeAccent,
                           ))),
                     ],
                   ),
