@@ -41,6 +41,7 @@ dependencies:
   flutter_sound: ^9.2.13
   permission_handler: ^10.2.0
   firebase_auth: ^4.10.1
+  dialogflow_flutter: ^1.0.0
 
 dev_dependencies:
   flutter_test:
